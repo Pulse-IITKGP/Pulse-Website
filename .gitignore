@@ -1,0 +1,11 @@
+node_modules
+dist
+*.local
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# Local agent tooling (not part of the site)
+.claude
+skills-lock.json
